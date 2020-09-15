@@ -2,6 +2,8 @@
 // const mongodbClient = mongodb.MongoClient
 // const ObjectID = mongodb.ObjectID
 
+//this file is for test. we dont need it in the main project
+
 const {MongoClient : mongodbClient , ObjectID} = require('mongodb')
 
 const databaseurl = 'mongodb://127.0.0.1:27017'

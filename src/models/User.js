@@ -35,9 +35,7 @@ const userSchema = new mongoose.Schema( {
                 throw new Error('should not contain "password"')
             }
         }
-
-
-
+   
     },age: {
         type: Number,
         default: 0 ,

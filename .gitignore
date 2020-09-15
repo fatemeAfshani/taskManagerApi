@@ -1,2 +1,5 @@
 node_modules
 config
+public
+src/templates
+test/mathtests
