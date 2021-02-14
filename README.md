@@ -1,19 +1,19 @@
 # taskManagerApi
 
- This application that let you to create users and login with email and password, it also allows you to create new tasks for the logged in user, modify task and delete them.
- each user can watch his/her own profile and add/delete avatar image. and also users can log out from one account or all of them.
+ This application  let you to create users and login with email and password, it also allows you to create new tasks for the logged in user, modify tasks and delete them.
+ each user can see his/her own profile and add/delete avatar image. also users can log out from one account or all of them.
  
  
  ................
  
  
- This project is deployed on heroku and mongodb in deployed on  mongodb Atlas and for authorization using jwt
- deploy url: https://fateme-task-manager.herokuapp.com
+ This project is deployed on heroku, mongodb is on mongodb Atlas.
+  url: https://fateme-task-manager.herokuapp.com
  
  ................
  
  
- This is some request to test the Api:
+ This is some requests to test the Api:
  
  
  for adding new user:
